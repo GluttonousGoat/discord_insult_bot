@@ -1,0 +1,16 @@
+[DEFAULT]
+
+# Paste your bot token after the '=' without (double) quotes
+
+token = BOT_TOKEN_HERE
+
+# Enter the ISO-639-2/B-Code of your choice behind the '=' (no (double) quotes).
+# Available language are: German [GER], English [ENG]
+
+language = ISO_CODE_HERE
+
+# Paste the ID of the group whose members you want to insult.
+# You can either get the ID bei righ-clicking on a member's group tag 
+# or by clicking on the three dots in the role settings
+
+target = ROLE_ID_HERE
